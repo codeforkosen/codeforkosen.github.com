@@ -4,44 +4,12 @@
   <title><![CDATA[Code for KOSEN]]></title>
   <link href="http://codeforkosen.org/atom.xml" rel="self"/>
   <link href="http://codeforkosen.org/"/>
-  <updated>2013-12-08T05:16:24+09:00</updated>
+  <updated>2013-12-08T05:39:24+09:00</updated>
   <id>http://codeforkosen.org/</id>
   <author>
     <name><![CDATA[Akashi National College of Technology]]></name>
     
   </author>
 
-  
-  <entry>
-    <title type="html"><![CDATA[next post test]]></title>
-    <link href="http://codeforkosen.org/blog/2013/11/28/next-post-test/"/>
-    <updated>2013-11-28T16:10:44+09:00</updated>
-    <id>http://codeforkosen.org/blog/2013/11/28/next-post-test</id>
-    <content type="html"><![CDATA[<p>てすとだよーよっろしくぅｗｗ</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Welcome to Jekyll!]]></title>
-    <link href="http://codeforkosen.org/blog/2013/11/26/welcome-to-jekyll/"/>
-    <updated>2013-11-26T01:53:19+09:00</updated>
-    <id>http://codeforkosen.org/blog/2013/11/26/welcome-to-jekyll</id>
-    <content type="html"><![CDATA[<p>You&rsquo;ll find this post in your <code>_posts</code> directory &ndash; edit this post and re-build (or run with the <code>-w</code> switch) to see your changes!
-To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
-
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<div>
-  <pre><code class='ruby'>def print_hi(name)
-  puts &quot;Hi, #{name}&quot;
-end
-print_hi(&#39;Tom&#39;)
-#=&gt; prints &#39;Hi, Tom&#39; to STDOUT.</code></pre>
-</div>
-
-
-<p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/mojombo/jekyll">Jekyll&rsquo;s GitHub repo</a>.</p>
-]]></content>
-  </entry>
   
 </feed>

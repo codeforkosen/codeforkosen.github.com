@@ -1,14 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://codeforkosen.org/blog/2013/11/26/welcome-to-jekyll/</loc>
-        <lastmod>2013-12-08T05:14:42+09:00</lastmod>
-    </url>
-    <url>
-        <loc>http://codeforkosen.org/blog/2013/11/28/next-post-test/</loc>
-        <lastmod>2013-12-08T05:14:42+09:00</lastmod>
-    </url>
-    <url>
         <loc>http://codeforkosen.org/about/</loc>
         <lastmod>2013-12-08T05:14:42+09:00</lastmod>
     </url>
