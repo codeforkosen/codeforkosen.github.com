@@ -1,0 +1,163 @@
+@charset "UTF-8";
+/* line 3, ../sass/style.css.scss */
+body {
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  font-size: 14px;
+}
+
+/* line 8, ../sass/style.css.scss */
+body > header {
+  background: #b13546 url("../images/title-white.png") center center no-repeat;
+  margin: 40px 0 0 -50%;
+  width: 200%;
+  height: 500px;
+}
+/* line 13, ../sass/style.css.scss */
+body > header h1 {
+  display: none;
+}
+
+/* line 18, ../sass/style.css.scss */
+nav.gnav {
+  position: fixed;
+  z-index: 12;
+  top: 0;
+  left: 0;
+  background: white;
+  height: 40px;
+  width: 100%;
+}
+/* line 26, ../sass/style.css.scss */
+nav.gnav ul {
+  width: 800px;
+  margin: 0 auto;
+}
+/* line 29, ../sass/style.css.scss */
+nav.gnav ul li {
+  float: left;
+  height: 40px;
+}
+/* line 32, ../sass/style.css.scss */
+nav.gnav ul li h1 {
+  background: url("../images/nav-title.png") left center no-repeat;
+  width: 200px;
+  height: 40px;
+}
+/* line 36, ../sass/style.css.scss */
+nav.gnav ul li h1 span {
+  display: none;
+}
+/* line 40, ../sass/style.css.scss */
+nav.gnav ul li a {
+  line-height: 40px;
+  height: 100%;
+  font-size: 18px;
+  text-decoration: none;
+  padding: 0 20px;
+}
+
+/* line 51, ../sass/style.css.scss */
+.clearfix:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+/* line 57, ../sass/style.css.scss */
+a {
+  color: #b13546;
+}
+/* line 59, ../sass/style.css.scss */
+a:hover {
+  color: #333;
+}
+
+/* line 65, ../sass/style.css.scss */
+div.wrap-content {
+  width: 600px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+/* line 71, ../sass/style.css.scss */
+article {
+  width: 200%;
+  margin: 0 0 0 -50%;
+  box-shadow: 0 0 15px 0 #000;
+  position: relative;
+  z-index: 10;
+}
+/* line 77, ../sass/style.css.scss */
+article section {
+  padding: 20px 0;
+  text-align: center;
+}
+/* line 80, ../sass/style.css.scss */
+article section h1 {
+  font-size: 24px;
+  color: #b13546;
+  padding: 20px 0;
+}
+/* line 85, ../sass/style.css.scss */
+article section h2 {
+  font-size: 18px;
+  color: #b13546;
+  padding: 10px 0;
+}
+/* line 90, ../sass/style.css.scss */
+article section p {
+  font-size: 14px;
+  padding: 10px 20px;
+  line-height: 24px;
+}
+/* line 95, ../sass/style.css.scss */
+article section address {
+  font-style: normal;
+}
+/* line 97, ../sass/style.css.scss */
+article section address small.domain:before {
+  content: "codeforkosen.org";
+}
+/* line 101, ../sass/style.css.scss */
+article section dl {
+  padding: 30px 0;
+}
+/* line 103, ../sass/style.css.scss */
+article section dl dt {
+  font-size: 18px;
+  padding: 10px 0;
+  font-weight: bold;
+}
+/* line 108, ../sass/style.css.scss */
+article section dl dd {
+  line-height: 20px;
+  padding: 0 100px 30px;
+}
+/* line 113, ../sass/style.css.scss */
+article section div.activity-box {
+  padding: 20px 0;
+  text-align: left;
+}
+/* line 116, ../sass/style.css.scss */
+article section div.activity-box * {
+  float: right;
+  width: 290px;
+  padding-right: 0;
+  padding-left: 0;
+}
+/* line 124, ../sass/style.css.scss */
+article section div.activity-box img {
+  float: left;
+  width: 280px;
+  margin: 0 20px 0 0;
+}
+/* line 131, ../sass/style.css.scss */
+article.bg-brand {
+  z-index: 9;
+  box-shadow: none;
+  background: #b13546;
+}
+/* line 136, ../sass/style.css.scss */
+article.bg-brand section * {
+  color: white;
+}
