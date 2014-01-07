@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Code for KOSEN]]></title>
+  <link href="http://codeforkosen.org/atom.xml" rel="self"/>
+  <link href="http://codeforkosen.org/"/>
+  <updated>2014-01-08T07:56:33+09:00</updated>
+  <id>http://codeforkosen.org/</id>
+  <author>
+    <name><![CDATA[Code for KOSEN - Branch: Akashi]]></name>
+    
+  </author>
+
+  
+</feed>
