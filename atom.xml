@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Code for KOSEN]]></title>
+  <link href="http://codeforkosen.org/atom.xml" rel="self"/>
+  <link href="http://codeforkosen.org/"/>
+  <updated>2014-01-09T15:25:25+09:00</updated>
+  <id>http://codeforkosen.org/</id>
+  <author>
+    <name><![CDATA[Code for KOSEN - Branch: Akashi]]></name>
+    
+  </author>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Code for KOSEN 始動しました]]></title>
+    <link href="http://codeforkosen.org/blog/2014-01-09/hello-world/"/>
+    <updated>2014-01-09T08:00:00+09:00</updated>
+    <id>http://codeforkosen.org/blog/2014-01-09/hello-world</id>
+    <content type="html"><![CDATA[<p>高専生活における「こうしたい！」を高専生が IT と デザイン の力で実現していくための組織、 Code for KOSEN がいよいよ始動しました。</p>
+
+<p>Code for KOSEN では、
+全国に点在する各高専の枠を超えたコミュニティを形成し、
+教員、学生をはじめ、高専に関わる沢山の人たちとともに、
+高専生活を「楽しく」変えていきたい！
+そんな思いを持って、様々な取り組みに挑戦していきます。</p>
+
+<p><img src="http://codeforkosen.org/assets/images/blog/2014-01-09/hello-world/eyecatch.jpg" alt="Code for KOSEN - Branch: Akashi メンバー" /></p>
+
+<p>私たち Code for KOSEN は、
+兵庫県の <a href="http://www.akashi.ac.jp">&ldquo;明石高専（ANCT）&rdquo;</a> を拠点とし、
+オープンデータの作成やアプリの開発、提供を行う予定です。
+また年度内に Code for KOSEN 主催のイベント（ハッカソンやアイデアソン、勉強会のいずれか）を計画しております。</p>
+
+<p>Code for KOSEN の活動に興味を持ち、メンバーとして活動に参加したい！という方が居られましたら、Code for KOSEN 事務局（<a href="mailto:join@codeforkosen.org">join@codeforkosen.org</a>）まで、ぜひご連絡ください。</p>
+
+<p>よろしくお願いいたします。</p>
+
+<div class="person">
+<img src="http://codeforkosen.org/assets/images/member/akashi/matsuda.jpg">
+<h2>松田 裕貴<span>Yuki MATSUDA</span></h2>
+</div>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>
