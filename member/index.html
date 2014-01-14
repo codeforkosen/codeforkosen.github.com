@@ -28,6 +28,14 @@
   <meta property="og:image" content="http://codeforkosen.org/assets/images/theme/sns/ogp.png" />
 </head>
 <body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/all.js#xfbml=1&appId=468905476565453";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 <header class="site-header">
   <div class="header-wrap">
     <nav class="gnav">
@@ -97,8 +105,16 @@
 </div>
 <footer class="site-footer">
 	<div class="footer-wrap">
-	&copy; 2014 Code for KOSEN
+  <div class="social-box clearfix">
+    <div class="fb-like-box" data-href="https://www.facebook.com/codeforkosen" data-width="420" data-height="300" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+    <div class="twitter-box">
+      <a class="twitter-timeline" href="https://twitter.com/codeforkosen" data-widget-id="422991240741670912">@codeforkosen からのツイート</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+  </div>
+  <small>&copy; 2014 Code for KOSEN</small>
 </div>
+
 </footer>
 </body>
 </html>
