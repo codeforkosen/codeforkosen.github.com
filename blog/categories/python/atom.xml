@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: python | Code for KOSEN]]></title>
+  <link href="http://codeforkosen.org/blog/categories/python/atom.xml" rel="self"/>
+  <link href="http://codeforkosen.org/"/>
+  <updated>2015-09-02T13:16:53+09:00</updated>
+  <id>http://codeforkosen.org/</id>
+  <author>
+    <name><![CDATA[Code for KOSEN - Branch: Akashi]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[第3回 akashi.pyを開催しました]]></title>
+    <link href="http://codeforkosen.org/blog/2015-07-05/akashi-dot-py-3/"/>
+    <updated>2015-07-05T19:33:37+09:00</updated>
+    <id>http://codeforkosen.org/blog/2015-07-05/akashi-dot-py-3</id>
+    <content type="html"><![CDATA[<p>こんにちは。明石高専2年電気情報工学科の藤本恭子です。</p>
+
+<p>今回明石高専で開催された第3回akashi.pyに参加させていただきました。</p>
+
+<p>第2回から2度目の参加ですが今回もpythonについていろいろ教えていただきました(^&ndash;^)/</p>
+
+<h2>今日やったこと</h2>
+
+<ul>
+<li>Herokuのサインアップ</li>
+<li>前回使った勉強会の一覧のデータをブラウザで表示できるようにする</li>
+<li>フォームを用いて勉強会の一覧を検索できるようにする</li>
+<li>HTML, CSSを設定してデザインを整えてみたりする</li>
+<li>Herokuを使ってページを公開する</li>
+</ul>
+
+
+<h2>今回作ったもの</h2>
+
+<p><a href="https://github.com/akaikumako/refrigerator">https://github.com/akaikumako/refrigerator</a></p>
+
+<p>前回は勉強会の一覧がただ画面に表示されるだけでしたが、今回はタイトルや検索フォームをつけたり、一覧にリンクをつけたりすることでWebアプリっぽくなったので嬉しかったです。</p>
+
+<p>1年生の時に授業でやったHTMLやCSSのことをところどころ忘れていたので、Pythonと一緒にこれから少しずつでも触って身につけていきたいと思いました！</p>
+
+<p>お疲れ様でした。ありがとうございました！</p>
+
+<p><div class="person">
+  <img src="/assets/images/member/default.jpg">
+  <h2>藤本 恭子<span>Kyoko FUJIMOTO</span></h2>
+</div>
+
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第二回akashi.pyを開催しました]]></title>
+    <link href="http://codeforkosen.org/blog/2015-06-21/akashi-dot-py-2/"/>
+    <updated>2015-06-21T17:29:30+09:00</updated>
+    <id>http://codeforkosen.org/blog/2015-06-21/akashi-dot-py-2</id>
+    <content type="html"><![CDATA[<p>6/21(日)　明石高専でpythonの勉強会2回目を開催しました。</p>
+
+<p>はじめまして
+明石高専　電気情報工学科２年の　福岡　蒼一朗・豊島　秀典です。
+学生やってます。授業ではc言語をしています。akashi.py #2に参加させてもらったのでブログ更新させていただきます。</p>
+
+<h2>今日やったこと</h2>
+
+<ul>
+<li>文法チェック</li>
+<li>FizzBuzz問題</li>
+<li>勉強会の一覧を表示する</li>
+</ul>
+
+
+<h2>僕たちが参加しようと思った理由</h2>
+
+<p>pythonに興味があって、ちょうどその頃に勉強会を開いてくださると聞いて『これはチャンスだ！』と思い参加しました。</p>
+
+<h2>参加者から見たpython勉強会　感想</h2>
+
+<p>僕は第一回の時も参加していたので、ブラッシュアップになるかなと思いながら挑みましたが、文法などが完璧に覚られておらず悪戦苦闘しました笑。ペアプロも普段することがないので新鮮でとても楽しく学ぶことができました。二人で学ぶので、一人で学ぶよりとても学べるなあと感動しました。今後の勉強会も参加させてもらってpythonをもっと学んでいきたいです。ありがとうございました。(福岡)</p>
+
+<p>今回の勉強会で初めてペアプロというものを体験しました。二人一組でコードを書いていくのですが、パートナーを見て、自分でコードを書いて、わからないところは聞いてと、サクサク進む事ができました。今回はAPIを使ってITの勉強会をキーワードで検索できるプログラムを作ったのですが、実際にコードを書くので、話を聴くだけよりも、強く印象に残りました。今後の勉強会も楽しみです。 (豊島)</p>
+
+<p>今回作ったもの
+<a href="https://github.com/ToyoshimaHidenori/akashipy">https://github.com/ToyoshimaHidenori/akashipy</a></p>
+
+<p>Include file '<em>member/akashi/fukuoka.html' contains invalid characters or sequences
+Include file '</em>member/akashi/toyoshima.html' contains invalid characters or sequences</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第一回Python勉強会(akashi.py)を開催しました。]]></title>
+    <link href="http://codeforkosen.org/blog/2015-06-15/the-first-study-meeting-of-python-is-held/"/>
+    <updated>2015-06-15T22:25:00+09:00</updated>
+    <id>http://codeforkosen.org/blog/2015-06-15/the-first-study-meeting-of-python-is-held</id>
+    <content type="html"><![CDATA[<p>6/14日(日) 明石高専でPythonの勉強会を開催しました。</p>
+
+<h2>自己紹介</h2>
+
+<p>はじめまして、明石高専 専攻科1年の芝田 将です。
+普段はPyCon JP 2015のメディアスタッフや株式会社Be Proudでアルバイトを行なっています。</p>
+
+<p>2年ほど前にPythonに興味を持ち、それ以来ずっと趣味やアルバイト、研究等、あらゆるところで使用しています。
+Pythonに興味を持ってくれている後輩がいたので、akashi.pyというPythonの勉強会を立ち上げました。</p>
+
+<h2>Pythonについて</h2>
+
+<p>Pythonはそのシンプルな言語仕様により習得が容易で、海外ではプログラミングの教育に広く利用されています。
+また世界的にユーザ数が非常に多い事から数多くの便利なライブラリが開発されていて、Webアプリケーションの開発はもちろんデータ分析等の分野でも広く利用されています。</p>
+
+<p>但し、その一方で日本では比較的ユーザ数が少ないことから、Webアプリなどを開発しようと思うと少し英語の資料を読まないと難しい場合も多いです。
+英語の資料に抵抗のある人達にとってはこれは大きな問題で、その理由だけでPython以外の言語の勉強を始めるユーザもいるのではないかと思います。</p>
+
+<p>そこでこういった勉強会を通じて、Pythonを勉強していくきっかけになればいいなと思っています。</p>
+
+<h2>今回やったこと</h2>
+
+<p><img src="/assets/images/blog/2015-06-15/the-first-study-meeting-of-python-is-held/eyecatch.jpg" alt="勉強会の様子" /></p>
+
+<p>参加者の多くは本科2年生で、C言語のプログラミング経験がありました。
+そこで文法について軽く説明した後、さっそくペアプログラミング(2人で交代しながらコードを書いていく)を行いました。
+講義に使用した資料はgithubで公開しています。
+詳しくは資料を御覧ください。</p>
+
+<ul>
+<li><a href="https://github.com/c-bata/akashipy/blob/master/notebooks/python_grammer.ipynb">Python基礎文法チェック</a></li>
+<li><a href="https://github.com/c-bata/akashipy/blob/master/notebooks/tools_and_libraries.ipynb">便利なツールやライブラリ</a></li>
+</ul>
+
+
+<p>資料についてはこの内容を追加した方がいいなどの提案があれば、Issueを立ててくれると嬉しいです(Pull Request送って頂いても構いません)。</p>
+
+<p>勉強会ではペアプログラミングをベースにすすめましたが、これは上手く機能したかなと思っています。
+経験者も何人かいるため、その人達からツールの使い方やコードを書くときの考え方等を盗んでいってほしいですね。</p>
+
+<h2>今後</h2>
+
+<p>次回はさっそくFlaskを使ったWebアプリケーションの開発をやっていこうと思います。
+また第一回では参加できなかったメンバーも多かったので補講も開く予定です。
+興味のある方は新井先生や僕(<a href="&#109;&#x61;&#105;&#108;&#x74;&#x6f;&#58;&#109;&#101;&#x31;&#53;&#x30;&#x37;&#x40;&#x73;&#46;&#97;&#107;&#97;&#115;&#x68;&#105;&#x2e;&#x61;&#99;&#x2e;&#x6a;&#112;">&#x6d;&#x65;&#49;&#53;&#48;&#55;&#64;&#x73;&#x2e;&#97;&#x6b;&#x61;&#x73;&#x68;&#x69;&#46;&#97;&#99;&#46;&#106;&#112;</a>)に連絡をください。</p>
+
+<p>次回以降の勉強会の様子は参加してくれた学生に更新してもらおうと思います。
+お楽しみに！</p>
+
+<p>
+<div class="person">
+<img src="/assets/images/member/akashi/shibata.jpg">
+<h2>芝田 将<span>Masashi SHIBATA</span></h2>
+</div>
+</p>
+]]></content>
+  </entry>
+  
+</feed>

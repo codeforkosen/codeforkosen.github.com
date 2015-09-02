@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: meetup | Code for KOSEN]]></title>
+  <link href="http://codeforkosen.org/blog/categories/meetup/atom.xml" rel="self"/>
+  <link href="http://codeforkosen.org/"/>
+  <updated>2015-09-02T13:16:53+09:00</updated>
+  <id>http://codeforkosen.org/</id>
+  <author>
+    <name><![CDATA[Code for KOSEN - Branch: Akashi]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Code for KOSEN 勉強会 #3 を開催しました。]]></title>
+    <link href="http://codeforkosen.org/blog/2015-06-16/c4k-meetup-3/"/>
+    <updated>2015-06-16T18:58:40+09:00</updated>
+    <id>http://codeforkosen.org/blog/2015-06-16/c4k-meetup-3</id>
+    <content type="html"><![CDATA[<p>明石高専 電気情報工学科2年の山下 紗苗です。はじめまして。</p>
+
+<p>芝田先輩のakashi.py #1の記事と時空が前後していますが、先月5/2（土）明石高専にてCode for KOSEN 勉強会 #3 を開催しました！</p>
+
+<p>過去最多 15以上もの発表・LT応募があったので、発表者の募集を早めに締めきって終了時間も延長することに。
+現役生から先生、OB、社会人まで幅広い層の方々の発表を聞くことができました。（時には鋭い質問も…）</p>
+
+<p>タイムテーブルはこちら（<a href="https://codeforkosen.doorkeeper.jp/events/23396">Doorkeeper</a>）</p>
+
+<p><img src="/assets/images/blog/2015-06-16/c4k-meetup-3/eyecatch.jpg" alt="勉強会の様子" /></p>
+
+<p>また今回は理研の大浪修一先生をお招きし、<a href="http://sa2015.siggraph.org/jp">SIGGRAPH ASIA 2015</a>での<a href="https://sites.google.com/site/siggraphasia2015democontest/data">Open Data Visualization Contest</a>に向けて、
+理研のオープンデータと生命科学研究に関するkeynote speechをしていただきました。</p>
+
+<p>当日の大浪先生の講義がYouTubeに上がっています。（<a href="https://www.youtube.com/watch?v=7Zv4_aa88ls">生命動態のオープンデータとその活用例</a>）</p>
+
+<p>終了後は希望者を対象に、明石高専OBによるgitワークショップが行われました。
+エンジニアの必須スキルになりつつあるgit、使いこなせるようになりたいですね。</p>
+
+<p>低学年や学外からの参加者もだんだん増えてきて、Code for KOSEN 勉強会、盛り上がってきました。#4にも期待です！</p>
+
+<p>
+<div class="person">
+<img src="/assets/images/member/akashi/yamashita.jpg">
+<h2>山下 紗苗<span>Sanae YAMASHITA</span></h2>
+</div>
+</p>
+]]></content>
+  </entry>
+  
+</feed>
